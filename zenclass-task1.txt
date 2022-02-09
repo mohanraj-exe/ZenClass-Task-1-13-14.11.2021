@@ -1,0 +1,9 @@
+ZenClass-Task-1- Dated 13,14.11.2021
+
+  Blog about HTTP 1.1 vs HTTP 2.0
+  Link => https://medium.com/@smohan1029/http-1-1-vs-http-2-671636b9dad6
+  
+ZenClass-Task-1- Dated 13,14.11.2021
+
+  Blog about Object and it's internal representation in JavaScript.
+  Link => https://medium.com/@smohan1029/objects-and-its-internal-representations-in-javascript-cb9870df17e2
